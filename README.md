@@ -6,7 +6,7 @@ cadastrar times e inserir os times no torneio.
 ### Funcionalidades a serem implementadas:
 
 
-[] ~~Cadastro de Campeonatos~~
+[] Cadastro de Campeonatos
 
 [] Cadastro de Times
 
