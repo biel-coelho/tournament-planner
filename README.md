@@ -4,10 +4,10 @@
 cadastrar times e inserir os times no torneio.
 
 ### Funcionalidades a serem implementadas:
-[ ] Cadastro de Campeonatos.                               
-[ ] Cadastro de Times.                 
-[ ] Inscrição de Time em Campeonato.
+- [ ] Cadastro de Campeonatos.                               
+- [ ] Cadastro de Times.                 
+- [ ] Inscrição de Time em Campeonato.
 
 ## Tecnologias usadas:
- -Java.                          
- -Spring Framework.
+ - Java.                          
+ - Spring Framework.
